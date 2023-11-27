@@ -5,16 +5,16 @@
 **In this project We will use Spark with Python to do an amazing stuff.Here we will work on the Spark DataFrame which will read the csv files attached above as our dataset and complete the challenges as provided by Jose Portilla .** <br></br>
 
 **Here is the Problem Statement!** <br></br>
+A large technology firm needs your help, they've been hacked! Luckily their forensic engineers have grabbed valuable data about the hacks, including information like session time,locations, wpm typing speed, etc. The forensic engineer relates to you what she has been able to figure out so far, she has been able to grab meta data of each session that the hackers used to connect to their servers. These are the features of the data:<br></br>
 
-**Congratulations**, You've been hired by a dog food company to try to predict why some batches of their dog food are spoiling much quicker than intended! Unfortunately this Dog Food company hasn't upgraded to the latest machinery, meaning that the amounts of the five preservative chemicals they are using can vary a lot, but which is the chemical that has the strongest effect? The dog food company first mixes up a batch of preservative that contains 4 different preservative chemicals (A,B,C,D) and then is completed with a "filler" chemical.<br></br> The food scientists belive one of the A,B,C, or D preservatives is causing the problem, but need your help to figure out which one!<br></br>
 
-Pres_A : Percentage of preservative A in the mix<br></br>
-Pres_B : Percentage of preservative B in the mix<br></br>
-Pres_C : Percentage of preservative C in the mix<br></br>
-Pres_D : Percentage of preservative D in the mix<br></br>
-Spoiled: Label indicating whether or not the dog food batch was spoiled.<br></br>
-
-**Use Machine Learning with RF to find out which parameter had the most predicitive power, thus finding out which chemical causes the early spoiling! So create a model and then find out how you can decide which chemical is the problem!** <br></br>
+'Session_Connection_Time': How long the session lasted in minutes <br></br>
+'Bytes Transferred': Number of MB transferred during session <br></br>
+'Kali_Trace_Used': Indicates if the hacker was using Kali Linux <br></br>
+'Servers_Corrupted': Number of server corrupted during the attack <br></br>
+'Pages_Corrupted': Number of pages illegally accessed <br></br>
+'Location': Location attack came from (Probably useless because the hackers used VPNs) <br></br>
+'WPM_Typing_Speed': Their estimated typing speed based on session logs. <br></br>
 
 
 **Before jumping to the code lets understand Spark and Random Forest First**...<br></br>
