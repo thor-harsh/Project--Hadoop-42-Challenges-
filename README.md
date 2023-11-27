@@ -49,7 +49,7 @@ It does it by finding some similar patterns in the unlabelled dataset such as sh
 K-means clustering is a method of vector quantization, originally from signal processing, that aims to partition n observations into k clusters in which each observation belongs to the cluster with the nearest mean, serving as a prototype of the cluster.<br></br>
 
 
-**Important Note: Go through the customer_churn.csv and new_customers.csv files before jumping to the code.**
+**Important Note: Go through the hack_data.csv file before jumping to the code.**
 
 
 </table>
