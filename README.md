@@ -5,7 +5,8 @@
 **In this project We will use Spark with Python to do an amazing stuff.Here we will work on the Spark DataFrame which will read the csv files attached above as our dataset and complete the challenges as provided by Jose Portilla .** <br></br>
 
 **Here is the Problem Statement!** <br></br>
-A large technology firm needs your help, they've been hacked! Luckily their forensic engineers have grabbed valuable data about the hacks, including information like session time,locations, wpm typing speed, etc. The forensic engineer relates to you what she has been able to figure out so far, she has been able to grab meta data of each session that the hackers used to connect to their servers. These are the features of the data:<br></br>
+
+A large technology firm needs your help, they've been hacked! Luckily their forensic engineers have grabbed valuable data about the hacks, including information like session time,locations, wpm typing speed, etc. The forensic engineer relates to you what she has been able to figure out so far, she has been able to grab meta data of each session that the hackers used to connect to their servers. <br></br> These are the features of the data:<br></br>
 
 
 'Session_Connection_Time': How long the session lasted in minutes <br></br>
