@@ -44,9 +44,7 @@ Train machine learning algorithms on a laptop and use the same code to scale to 
 **What is Clustering**?<br></br>
 Clustering or cluster analysis is a machine learning technique, which groups the unlabelled dataset. It can be defined as "A way of grouping the data points into different clusters, consisting of similar data points. The objects with the possible similarities remain in a group that has less or no similarities with another group."<br></br>
 
-It does it by finding some similar patterns in the unlabelled dataset such as shape, size, color, behavior, etc., and divides them as per the presence and absence of those similar patterns.<br></br>
-
-It is an unsupervised learning method, hence no supervision is provided to the algorithm, and it deals with the unlabeled dataset.
+It does it by finding some similar patterns in the unlabelled dataset such as shape, size, color, behavior, etc., and divides them as per the presence and absence of those similar patterns.It is an unsupervised learning method, hence no supervision is provided to the algorithm, and it deals with the unlabeled dataset.<br></br>
 
 K-means clustering is a method of vector quantization, originally from signal processing, that aims to partition n observations into k clusters in which each observation belongs to the cluster with the nearest mean, serving as a prototype of the cluster.<br></br>
 
